@@ -17,7 +17,7 @@ This is my personal portfolio website built using React, Tailwind CSS, and moder
 
 ## Live Demo
 
-(coming soon)
+(https://coder-sakshi.vercel.app/)
 
 ## Author
 
