@@ -1,6 +1,24 @@
-# 🌟 Aditi Arya  
+# Sakshi Portfolio
 
-### 👩‍💻 Welcome to my personal portfolio!  
-Explore my work and projects below 👇👇👇  
+This is my personal portfolio website built using React, Tailwind CSS, and modern web technologies.
 
-🔗 [Check it out](https://aditiarya.netlify.app/)
+## Features
+
+- Responsive design
+- Projects showcase
+- Skills & certifications
+- Contact integration
+
+## Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript
+
+## Live Demo
+
+(coming soon)
+
+## Author
+
+Sakshi
