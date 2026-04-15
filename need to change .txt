@@ -1,0 +1,112 @@
+lang - c,bash
+database - MySQL, PostgreSQL
+
+
+
+2. AI Resume Intelligence & Skill Gap Analyzer
+Problem
+
+Students don’t know which skills they lack for jobs.
+
+Idea
+
+Upload resume → system analyzes → compares with job descriptions → shows skill gaps and career suggestions.
+
+Tech Stack
+
+Python NLP
+
+FastAPI
+
+React
+
+MongoDB
+
+Vector database (FAISS)
+
+Embeddings
+
+AWS deployment
+
+Features
+
+Resume parsing
+
+Skill extraction using NLP
+
+Job description comparison
+
+Vector similarity search
+
+Skill gap visualization
+
+AI career suggestions
+
+ML/NLP Components
+
+Sentence embeddings
+
+Cosine similarity
+
+Skill ontology matching
+
+Resume scoring
+
+Skills Covered
+
+✔ Python
+✔ NLP
+✔ Text embeddings
+✔ Vector search
+✔ Machine Learning
+✔ REST APIs
+✔ MongoDB
+✔ Database querying
+✔ Cloud deployment
+✔ Client-Server architecture
+
+3. Secure Supply Chain Tracking System (Blockchain + Cybersecurity)
+Problem
+
+Supply chains are vulnerable to tampering and fake products.
+
+Idea
+
+A blockchain-based system that tracks products across the supply chain with tamper-proof logs.
+
+Tech Stack
+
+Hyperledger Fabric / Ethereum
+
+React
+
+Node.js backend
+
+MongoDB
+
+Docker containers
+
+Cloud deployment
+
+Features
+
+Product origin tracking
+
+Tamper-proof blockchain records
+
+QR code verification
+
+Fraud detection
+
+Supply chain visualization
+
+Skills Covered
+
+✔ JavaScript
+✔ Node backend
+✔ MongoDB
+✔ Cloud deployment
+✔ Docker
+✔ Software engineering
+✔ Database design
+✔ Client-server architecture
